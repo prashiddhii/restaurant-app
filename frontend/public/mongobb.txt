@@ -1,0 +1,13 @@
+HJtHiyzBni34AUA3
+
+mongodb+srv://prashiddhi:<db_password>@cluster0.ric1eeb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+Replace <db_password> with the password for the prashiddhi user. Ensure any option params are URL encoded.
+Resources
+
+Get started with the Node.js Driver
+Node.js Starter Sample App
+Access your Database Users
+Troubleshoot Connections
+
+
